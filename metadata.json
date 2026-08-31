@@ -1,0 +1,8 @@
+{
+  "name": "AE Report - PV (Prototype)",
+  "description": "A comprehensive, responsive pharmacovigilance adverse event reporting platform for patients, healthcare professionals, caregivers, and safety review teams.\n⚠️ Prototype — For Demonstration & Educational Purposes Only. This is not an official adverse event reporting system.\n\nBy Arijit Khanrah",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
